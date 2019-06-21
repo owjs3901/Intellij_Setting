@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="mcmod.info" type="JSON" />
+      <mapping ext="hwp" type="Native" />
     </extensionMap>
   </component>
 </application>
