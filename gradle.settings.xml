@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-XX:MaxHeapSize=256m -Xmx256m" />
+  </component>
+</application>
