@@ -84,7 +84,6 @@
   <codeStyleSettings language="JAVA">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
