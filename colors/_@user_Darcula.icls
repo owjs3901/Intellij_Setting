@@ -1,27 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-05-06T18:56:27</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-21T21:05:40</property>
+    <property name="created">2019-09-06T10:36:27</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.5.0.21</property>
+    <property name="modified">2019-09-06T10:41:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <colors>
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="3c3f41" />
-  </colors>
   <attributes>
-    <option name="ERRORS_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="585954" />
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
     <option name="WARNING_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
   </attributes>
 </scheme>
