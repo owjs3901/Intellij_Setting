@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/owjs3901/MyApplication.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/owjs3901/samPokemonItem" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\M\Desktop" />
