@@ -50,6 +50,14 @@
           <option name="url" value="https://github.com/owjs3901/samPokemonItem" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.heartpattern.kr/arushia/ArushiaSystem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.heartpattern.kr" />
+          <option name="userName" value="owjs3901@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\M\Desktop" />
